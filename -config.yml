@@ -1,0 +1,15 @@
+title: haha的知识库
+description: 个人学习笔记网站
+theme: jekyll-theme-minimal
+
+nav:
+  - name: 首页
+    url: /
+  - name: 英语笔记
+    url: /english
+  - name: 德语笔记
+    url: /german
+  - name: 神话故事
+    url: /myths
+  - name: 课堂笔记
+    url: /notes
