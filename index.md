@@ -17,7 +17,7 @@ layout: default
   </a>
   <a class="entry-card" href="./myths">
     <div class="entry-name">神话故事</div>
-    <div class="entry-desc">希腊神话与词源故事</div>
+    <div class="entry-desc">希腊 · 埃及 · 北欧，跨文明词源故事</div>
   </a>
   <a class="entry-card" href="./notes">
     <div class="entry-name">课堂笔记</div>
@@ -27,4 +27,4 @@ layout: default
 
 <hr class="divider">
 
-<span class="meta">最近更新：2026-08-18 英语笔记已加入第一批句子积累</span>
+<span class="meta">最近更新：2026-08-18 神话板块上线 · 英语笔记加入句子积累</span>
