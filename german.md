@@ -1,9 +1,10 @@
 ---
-title: 德语笔记
 layout: default
 ---
 
 # 德语笔记
+
+[首页](./) · [英语](./english) · [神话](./myths) · [课堂](./notes)
 
 Willkommen! 欢迎来到德语板块！
 

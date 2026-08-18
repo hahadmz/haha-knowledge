@@ -1,9 +1,10 @@
 ---
-title: 神话故事
 layout: default
 ---
 
 # 神话故事
+
+[首页](./) · [英语](./english) · [德语](./german) · [课堂](./notes)
 
 欢迎来到神话板块！
 
