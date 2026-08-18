@@ -6,13 +6,25 @@ layout: default
 
 欢迎来到我的小知识库，这里装着我在学的东西。
 
-## 板块入口
+<div class="entry-grid">
+  <a class="entry-card" href="./english">
+    <div class="entry-name">英语笔记</div>
+    <div class="entry-desc">四级备考 · 句子积累 · 生词本</div>
+  </a>
+  <a class="entry-card" href="./german">
+    <div class="entry-name">德语笔记</div>
+    <div class="entry-desc">Willkommen! 德语学习记录</div>
+  </a>
+  <a class="entry-card" href="./myths">
+    <div class="entry-name">神话故事</div>
+    <div class="entry-desc">希腊神话与词源故事</div>
+  </a>
+  <a class="entry-card" href="./notes">
+    <div class="entry-name">课堂笔记</div>
+    <div class="entry-desc">课堂内容与作业</div>
+  </a>
+</div>
 
-- [英语笔记](./english) — 四级备考 · 句子积累 · 生词本
-- [德语笔记](./german) — Willkommen! 德语学习记录
-- [神话故事](./myths) — 希腊神话与词源故事
-- [课堂笔记](./notes) — 课堂内容与作业
+<hr class="divider">
 
----
-
-最近更新：2026-08-18（英语笔记已加入第一批句子积累）
+<span class="meta">最近更新：2026-08-18 英语笔记已加入第一批句子积累</span>

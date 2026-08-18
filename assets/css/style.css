@@ -1,0 +1,147 @@
+/* haha的知识库 — 自定义样式 */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", "Microsoft YaHei", sans-serif;
+  background: #faf9f7;
+  color: #2d2d2d;
+  line-height: 1.75;
+  font-size: 16px;
+}
+
+.container { max-width: 760px; margin: 0 auto; padding: 0 24px; }
+
+/* 顶部导航 */
+.site-header {
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  backdrop-filter: blur(8px);
+  background: rgba(255,255,255,.92);
+}
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+}
+.site-logo {
+  font-size: 17px;
+  font-weight: 600;
+  color: #2d2d2d;
+  text-decoration: none;
+  letter-spacing: .5px;
+}
+.site-logo:hover { color: #888; }
+.site-nav { display: flex; gap: 22px; }
+.site-nav a {
+  font-size: 14px;
+  color: #666;
+  text-decoration: none;
+  transition: color .2s;
+}
+.site-nav a:hover { color: #2d2d2d; }
+
+/* 主内容 */
+main.container { padding-top: 40px; padding-bottom: 60px; }
+
+h1 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  letter-spacing: 1px;
+}
+h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 32px 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #eee;
+}
+h3 { font-size: 17px; font-weight: 600; margin: 24px 0 8px; }
+
+p { margin: 10px 0; }
+
+a { color: #4a6fa5; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+ul, ol { margin: 10px 0 10px 24px; }
+li { margin: 6px 0; }
+
+blockquote {
+  border-left: 3px solid #ddd;
+  padding-left: 16px;
+  color: #777;
+  margin: 12px 0;
+}
+
+code {
+  background: #f0efec;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+}
+
+/* 首页板块入口卡片 */
+.entry-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 28px 0;
+}
+.entry-card {
+  display: block;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 22px 20px;
+  text-decoration: none;
+  color: #2d2d2d;
+  transition: all .25s ease;
+}
+.entry-card:hover {
+  border-color: #ccc;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,.06);
+  text-decoration: none;
+}
+.entry-card .entry-name {
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+.entry-card .entry-desc {
+  font-size: 13px;
+  color: #888;
+}
+
+/* 页脚 */
+.site-footer {
+  border-top: 1px solid #eee;
+  background: #fff;
+  padding: 20px 0;
+  font-size: 13px;
+  color: #aaa;
+  text-align: center;
+}
+
+/* 最近更新 / 元信息 */
+.meta { color: #aaa; font-size: 13px; }
+
+/* 列表分隔线 */
+.divider { border: none; border-top: 1px solid #eee; margin: 24px 0; }
+
+/* 待办 checkbox 行 */
+.task-item { list-style: none; }
+
+/* 手机适配 */
+@media (max-width: 560px) {
+  .container { padding: 0 18px; }
+  h1 { font-size: 24px; }
+  .site-nav { gap: 14px; }
+  .site-nav a { font-size: 13px; }
+  .entry-grid { grid-template-columns: 1fr 1fr; }
+}
