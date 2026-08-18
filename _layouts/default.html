@@ -11,10 +11,10 @@
   <div class="container header-inner">
     <a class="site-logo" href="{{ '/' | relative_url }}">{{ site.title }}</a>
     <nav class="site-nav">
-      <a href="{{ '/english' | relative_url }}">英语</a>
-      <a href="{{ '/german' | relative_url }}">德语</a>
-      <a href="{{ '/myths' | relative_url }}">神话</a>
-      <a href="{{ '/notes' | relative_url }}">课堂</a>
+      <a href="{{ '/english' | relative_url }}" {% if page.url contains '/english' or page.url == '/english.html' %}class="active"{% endif %}>英语</a>
+      <a href="{{ '/german' | relative_url }}" {% if page.url contains '/german' or page.url == '/german.html' %}class="active"{% endif %}>德语</a>
+      <a href="{{ '/myths' | relative_url }}" {% if page.url contains '/myths' or page.url == '/myths.html' %}class="active"{% endif %}>神话</a>
+      <a href="{{ '/notes' | relative_url }}" {% if page.url contains '/notes' or page.url == '/notes.html' %}class="active"{% endif %}>课堂</a>
     </nav>
   </div>
 </header>

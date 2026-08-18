@@ -4,16 +4,16 @@ layout: default
 
 # 德语笔记
 
-[首页](./) · [英语](./english) · [神话](./myths) · [课堂](./notes)
+<p class="page-sub">Willkommen! 欢迎来到德语板块。</p>
 
-Willkommen! 欢迎来到德语板块！
+<div class="crumbs">[首页](./) · [英语](./english) · [神话](./myths) · [课堂](./notes)</div>
 
-## 目录
+## <span class="h2-num">01</span> 目录
 
 - 多邻国进度
 - 基础语法
 - 常用表达
 
-## 最近更新
+## <span class="h2-num">02</span> 最近更新
 
 （这里会记录我们的德语学习内容）

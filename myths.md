@@ -4,35 +4,105 @@ layout: default
 
 # 神话故事
 
-[首页](./) · [英语](./english) · [德语](./german) · [课堂](./notes)
+<p class="page-sub">从希腊神话开始，一路讲到埃及、北欧。每个故事都配了英语/德语词源知识点——学语言的时候，顺便把神话也记住了。</p>
 
-我们从希腊神话开始，一路讲到埃及、北欧。每个故事都配了英语/德语词源知识点——学语言的时候，顺便把神话也记住了。
+<div class="crumbs">[首页](./) · [英语](./english) · [德语](./german) · [课堂](./notes)</div>
 
-## 希腊神话
+## <span class="h2-num">01</span> 希腊神话
 
-- [Echo与纳西索斯](./myths/greek-01-echo-narcissus)（2026-07-24）——回声女神与自恋的美少年，echo / narcissism / Narzisse
-- [Apollo与Daphne](./myths/greek-02-apollo-daphne)（2026-07-30）——金箭与铅箭，月桂树与桂冠，Daphne / laurel / laureate
+<div class="myth-grid">
+  <a class="myth-card" href="./myths/greek-01-echo-narcissus">
+    <span class="myth-date">2026-07-24</span>
+    <div class="myth-title">Echo与纳西索斯</div>
+    <div class="myth-desc">回声女神与自恋的美少年 · echo / narcissism / Narzisse</div>
+  </a>
+  <a class="myth-card" href="./myths/greek-02-apollo-daphne">
+    <span class="myth-date">2026-07-30</span>
+    <div class="myth-title">Apollo与Daphne</div>
+    <div class="myth-desc">金箭与铅箭，月桂树与桂冠 · Daphne / laurel / laureate</div>
+  </a>
+</div>
 
-## 埃及神话
+## <span class="h2-num">02</span> 埃及神话
 
-- [埃及01 奥西里斯的谋杀](./myths/egypt-01-osiris-murder)（2026-08-08）——第一桩神界谋杀，伊西斯找回十四块碎片，Osiris / Isis / Horus / Pharaoh
-- [埃及02 荷鲁斯的眼睛](./myths/egypt-02-horus-eye)（2026-08-09）——为什么全世界药店都画着这只眼，Wedjat / Rx
-- [埃及03 伊西斯的真名](./myths/egypt-03-isis-name)（2026-08-10）——名字即权力，一条蛇换太阳神的真名，Ra / Magic
-- [埃及04 太阳船与阿佩普](./myths/egypt-04-solar-barge)（2026-08-11）——黎明是打出来的，solar / sun / Sonne / Apophis
-- [埃及06 托特的魔法书](./myths/egypt-06-thoth)（2026-08-13）——那个被希腊人认成赫尔墨斯的神，Thoth / Hermetic / Moon / Mond
-- [埃及07 塞赫迈特的愤怒](./myths/egypt-07-sekhmet)（2026-08-14）——差点杀光人类的狮子女神，Sekhmet / fury / plague / beer
-- [埃及08 巴斯特](./myths/egypt-08-bastet)（2026-08-15）——从狮子变成猫的女神，Bastet / cat / Katze / ointment
-- [埃及09 奥西里斯与伊西斯](./myths/egypt-09-osiris-isis)（2026-08-16）——死过的人，才懂重生，resurrection / Auferstehung / throne
-- [埃及10 荷鲁斯与赛特之战](./myths/egypt-10-horus-set)（2026-08-17）——王位不是抢的，是讨回来的，falcon / pharaoh / avenger
+<div class="myth-grid">
+  <a class="myth-card" href="./myths/egypt-01-osiris-murder">
+    <span class="myth-date">2026-08-08</span>
+    <div class="myth-title">埃及01 奥西里斯的谋杀</div>
+    <div class="myth-desc">第一桩神界谋杀，伊西斯找回十四块碎片 · Osiris / Isis / Horus / Pharaoh</div>
+  </a>
+  <a class="myth-card" href="./myths/egypt-02-horus-eye">
+    <span class="myth-date">2026-08-09</span>
+    <div class="myth-title">埃及02 荷鲁斯的眼睛</div>
+    <div class="myth-desc">为什么全世界药店都画着这只眼 · Wedjat / Rx</div>
+  </a>
+  <a class="myth-card" href="./myths/egypt-03-isis-name">
+    <span class="myth-date">2026-08-10</span>
+    <div class="myth-title">埃及03 伊西斯的真名</div>
+    <div class="myth-desc">名字即权力，一条蛇换太阳神的真名 · Ra / Magic</div>
+  </a>
+  <a class="myth-card" href="./myths/egypt-04-solar-barge">
+    <span class="myth-date">2026-08-11</span>
+    <div class="myth-title">埃及04 太阳船与阿佩普</div>
+    <div class="myth-desc">黎明是打出来的 · solar / sun / Sonne / Apophis</div>
+  </a>
+  <a class="myth-card" href="./myths/egypt-06-thoth">
+    <span class="myth-date">2026-08-13</span>
+    <div class="myth-title">埃及06 托特的魔法书</div>
+    <div class="myth-desc">那个被希腊人认成赫尔墨斯的神 · Thoth / Hermetic / Moon / Mond</div>
+  </a>
+  <a class="myth-card" href="./myths/egypt-07-sekhmet">
+    <span class="myth-date">2026-08-14</span>
+    <div class="myth-title">埃及07 塞赫迈特的愤怒</div>
+    <div class="myth-desc">差点杀光人类的狮子女神 · Sekhmet / fury / plague / beer</div>
+  </a>
+  <a class="myth-card" href="./myths/egypt-08-bastet">
+    <span class="myth-date">2026-08-15</span>
+    <div class="myth-title">埃及08 巴斯特</div>
+    <div class="myth-desc">从狮子变成猫的女神 · Bastet / cat / Katze / ointment</div>
+  </a>
+  <a class="myth-card" href="./myths/egypt-09-osiris-isis">
+    <span class="myth-date">2026-08-16</span>
+    <div class="myth-title">埃及09 奥西里斯与伊西斯</div>
+    <div class="myth-desc">死过的人，才懂重生 · resurrection / Auferstehung / throne</div>
+  </a>
+  <a class="myth-card" href="./myths/egypt-10-horus-set">
+    <span class="myth-date">2026-08-17</span>
+    <div class="myth-title">埃及10 荷鲁斯与赛特之战</div>
+    <div class="myth-desc">王位不是抢的，是讨回来的 · falcon / pharaoh / avenger</div>
+  </a>
+</div>
 
-## 北欧神话
+## <span class="h2-num">03</span> 北欧神话
 
-- [北欧01 托尔的锤子](./myths/nordic-01-thor-hammer)（2026-08-01）——锤子的诞生是个意外，Thor / Thursday / Mjölnir
-- [北欧02 奥丁的眼睛](./myths/nordic-02-odin-eye)（2026-08-03）——用一只眼睛换全知，Odin / Wednesday / Mímir
-- [北欧04 提尔的手](./myths/nordic-04-tyr-hand)（2026-08-04）——输掉一只手，换九界安全，Týr / Tuesday
-- [北欧06 洛基的惩罚](./myths/nordic-06-loki-punishment)（2026-08-06）——地震是怎么来的，Loki / Sigyn / earthquake / Erdbeben
-- [北欧07 诸神黄昏](./myths/nordic-07-ragnarok)（2026-08-07）——一切的终结与重新开始，Ragnarök / Fimbulwinter
+<div class="myth-grid">
+  <a class="myth-card" href="./myths/nordic-01-thor-hammer">
+    <span class="myth-date">2026-08-01</span>
+    <div class="myth-title">北欧01 托尔的锤子</div>
+    <div class="myth-desc">锤子的诞生是个意外 · Thor / Thursday / Mjölnir</div>
+  </a>
+  <a class="myth-card" href="./myths/nordic-02-odin-eye">
+    <span class="myth-date">2026-08-03</span>
+    <div class="myth-title">北欧02 奥丁的眼睛</div>
+    <div class="myth-desc">用一只眼睛换全知 · Odin / Wednesday / Mímir</div>
+  </a>
+  <a class="myth-card" href="./myths/nordic-04-tyr-hand">
+    <span class="myth-date">2026-08-04</span>
+    <div class="myth-title">北欧04 提尔的手</div>
+    <div class="myth-desc">输掉一只手，换九界安全 · Týr / Tuesday</div>
+  </a>
+  <a class="myth-card" href="./myths/nordic-06-loki-punishment">
+    <span class="myth-date">2026-08-06</span>
+    <div class="myth-title">北欧06 洛基的惩罚</div>
+    <div class="myth-desc">地震是怎么来的 · Loki / Sigyn / earthquake / Erdbeben</div>
+  </a>
+  <a class="myth-card" href="./myths/nordic-07-ragnarok">
+    <span class="myth-date">2026-08-07</span>
+    <div class="myth-title">北欧07 诸神黄昏</div>
+    <div class="myth-desc">一切的终结与重新开始 · Ragnarök / Fimbulwinter</div>
+  </a>
+</div>
 
----
+<hr class="divider">
 
-<span class="meta">最近更新：2026-08-18 神话板块迁入，希腊 · 埃及 · 北欧三系列 16 篇</span>
+<span class="meta">最近更新：2026-08-18 界面焕新 · 希腊 · 埃及 · 北欧三系列 16 篇</span>
