@@ -31,8 +31,14 @@ layout: default
     <div class="entry-en">NOTES</div>
     <div class="entry-desc">课堂内容与作业</div>
   </a>
+  <a class="entry-card" href="./daily">
+    <div class="entry-index">05</div>
+    <div class="entry-name">每日播报</div>
+    <div class="entry-en">DAILY</div>
+    <div class="entry-desc">木直讲给haha的世界 · 国际形势简报</div>
+  </a>
 </div>
 
 <hr class="divider">
 
-<span class="meta">最近更新：2026-08-18 界面焕新 · 神话板块上线 · 英语笔记加入句子积累</span>
+<span class="meta">最近更新：2026-08-19 新增每日播报板块 · 英语笔记加入句子积累</span>

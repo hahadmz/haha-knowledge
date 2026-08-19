@@ -6,7 +6,7 @@ layout: default
 
 <p class="page-sub">四级备考 · 句子积累 · 生词本</p>
 
-<div class="crumbs">[首页](./) · [德语](./german) · [神话](./myths) · [课堂](./notes)</div>
+<div class="crumbs">[首页](./) · [德语](./german) · [神话](./myths) · [课堂](./notes) · [每日](./daily)</div>
 
 ## <span class="h2-num">01</span> 句子积累
 

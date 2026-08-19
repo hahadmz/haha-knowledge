@@ -6,7 +6,7 @@ layout: default
 
 <p class="page-sub">欢迎来到课堂笔记板块。</p>
 
-<div class="crumbs">[首页](./) · [英语](./english) · [德语](./german) · [神话](./myths)</div>
+<div class="crumbs">[首页](./) · [英语](./english) · [德语](./german) · [神话](./myths) · [每日](./daily)</div>
 
 ## <span class="h2-num">01</span> 目录
 

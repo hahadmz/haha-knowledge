@@ -6,7 +6,7 @@ layout: default
 
 <p class="page-sub">从希腊神话开始，一路讲到埃及、北欧。每个故事都配了英语/德语词源知识点——学语言的时候，顺便把神话也记住了。</p>
 
-<div class="crumbs">[首页](./) · [英语](./english) · [德语](./german) · [课堂](./notes)</div>
+<div class="crumbs">[首页](./) · [英语](./english) · [德语](./german) · [课堂](./notes) · [每日](./daily)</div>
 
 ## <span class="h2-num">01</span> 希腊神话
 

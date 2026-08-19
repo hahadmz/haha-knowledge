@@ -6,7 +6,7 @@ layout: default
 
 <p class="page-sub">Willkommen! 欢迎来到德语板块。</p>
 
-<div class="crumbs">[首页](./) · [英语](./english) · [神话](./myths) · [课堂](./notes)</div>
+<div class="crumbs">[首页](./) · [英语](./english) · [神话](./myths) · [课堂](./notes) · [每日](./daily)</div>
 
 ## <span class="h2-num">01</span> 目录
 
