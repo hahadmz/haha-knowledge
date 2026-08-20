@@ -43,8 +43,14 @@ layout: default
     <div class="entry-en">DIRECTION</div>
     <div class="entry-desc">我想走哪条路 · 2026-08-20 从迷茫到方向</div>
   </a>
+  <a class="entry-card" href="./llm">
+    <div class="entry-index">07</div>
+    <div class="entry-name">LLM学习笔记</div>
+    <div class="entry-en">LLM</div>
+    <div class="entry-desc">猜下一个词 · 词嵌入 · 注意力机制 · 2026-08-20</div>
+  </a>
 </div>
 
 <hr class="divider">
 
-<span class="meta">最近更新：2026-08-20 新增方向笔记板块 · 每日播报更新至8/20</span>
+<span class="meta">最近更新：2026-08-20 新增LLM学习笔记板块 · 方向笔记 · 每日播报更新至8/20</span>
