@@ -37,8 +37,14 @@ layout: default
     <div class="entry-en">DAILY</div>
     <div class="entry-desc">木直讲给haha的世界 · 国际形势简报</div>
   </a>
+  <a class="entry-card" href="./direction">
+    <div class="entry-index">06</div>
+    <div class="entry-name">方向笔记</div>
+    <div class="entry-en">DIRECTION</div>
+    <div class="entry-desc">我想走哪条路 · 2026-08-20 从迷茫到方向</div>
+  </a>
 </div>
 
 <hr class="divider">
 
-<span class="meta">最近更新：2026-08-19 新增每日播报板块 · 英语笔记加入句子积累</span>
+<span class="meta">最近更新：2026-08-20 新增方向笔记板块 · 每日播报更新至8/20</span>
