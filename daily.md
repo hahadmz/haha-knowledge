@@ -8,6 +8,45 @@ layout: default
 
 <div class="crumbs">[首页](./) · [英语](./english) · [德语](./german) · [神话](./myths) · [课堂](./notes)</div>
 
+## <span class="h2-num">08.20</span> 8月20日 · 周四
+
+### 本期主线
+
+美伊对峙从谈判破裂直接跳入全面经济战。特朗普昨晚在Truth Social宣布对伊朗实施"有史以来针对任何国家的最具毁灭性的经济行动"，称之为"经济D日"，并威胁任何给伊朗提供金融、企业或机场支持的国家都将面临"巨大经济后果"[1](http://www.xinhuanet.com/world/20260820/f2cfeb9447bb4563a5db23ca98f100e2/c.html)[2](http://world.people.com.cn/n1/2026/0820/c1002-40782980.html)。这基本意味着美国放弃了军事打击路线，转向用经济绞杀逼迫伊朗就范——但问题是，伊朗已经在昨天宣布从防御转向"全面进攻"姿态，两个都不退让的玩家现在都在加码。
+
+### 美伊全面经济战
+
+**特朗普宣布"经济D日"**
+
+特朗普在Truth Social发文，宣布对伊朗实施"有史以来针对任何国家的最具毁灭性的经济行动"，称之为"经济D日"，并威胁任何给伊朗提供金融、企业或机场支持的国家都将面临"巨大经济后果"[1](http://www.xinhuanet.com/world/20260820/f2cfeb9447bb4563a5db23ca98f100e2/c.html)[2](http://world.people.com.cn/n1/2026/0820/c1002-40782980.html)。这意味着美国从军事施压转向经济绞杀路线，而伊朗昨天刚宣布从防御转向"全面进攻"，双方都在加码。
+
+**美军在霍尔木兹海峡秘密打通运油航道**
+
+美军悄悄在霍尔木兹海峡打通了一条运油航道。据Axios报道，过去两周每天有15-20艘油轮经阿曼沿海南部航道进出，石油日运输量已接近1000万桶，美军部署战斗机空中护航并击落伊朗无人机[3](http://world.people.com.cn/n1/2026/0820/c1002-40782983.html)。这条"地下航道"的存在说明美方很清楚：全面封锁伊朗的同时，不能让全球能源市场崩盘。
+
+### 俄乌战场
+
+**基辅遭弹道导弹大规模袭击**
+
+今天凌晨，俄军对基辅发动新一轮大规模弹道导弹袭击，使用弹道导弹和锆石高超音速导弹[4](http://world.people.com.cn/n1/2026/0820/c1002-40782984.html)。儿童医院窗户震碎、仓库大面积起火、有人被困避难所，目前至少3人死亡、20人受伤[5](https://united24media.com/war-in-ukraine/russian-ballistic-barrage-hits-kyiv-hospital-damaged-warehouses-ablaze-people-trapped-in-shelter-21849)[6](https://euromaidanpress.com/2026/08/20/russia-hit-kyiv-with-ballistic-and-hypersonic-missiles-overnight-damaging-a-childrens-hospital-with-people-trapped-in-a-shelter/)。乌克兰的爱国者系统已经"哑火数周"（拦截弹告急），俄方选择用高超音速武器打民用目标，是在向基辅和西方同时施压——你们拦不住，我就继续打。
+
+### 后续关注
+
+- 特朗普"经济D日"的具体制裁清单和实施时间表，以及其他国家（特别是中国、印度、土耳其）的回应
+- 霍尔木兹海峡"双轨运行"能维持多久——伊朗是否会打击这条南部航道
+- 乌克兰能否拿到新一批爱国者拦截弹，否则类似基辅的袭击会持续
+
+---
+
+<span class="meta">**来源索引**</span>
+
+[1] [特朗普宣布对伊朗实施"毁灭性经济行动"](http://www.xinhuanet.com/world/20260820/f2cfeb9447bb4563a5db23ca98f100e2/c.html) - 新华网 - 2026-08-20
+[2] [特朗普宣布对伊朗实施"毁灭性经济行动"](http://world.people.com.cn/n1/2026/0820/c1002-40782980.html) - 人民网 - 2026-08-20
+[3] [美军开展秘密行动在霍尔木兹海峡打通运油航道](http://world.people.com.cn/n1/2026/0820/c1002-40782983.html) - 人民网 - 2026-08-20
+[4] [乌空军称俄军对基辅发动大规模弹道导弹袭击](http://world.people.com.cn/n1/2026/0820/c1002-40782984.html) - 人民网 - 2026-08-20
+[5] [Russian Ballistic Barrage Hits Kyiv](https://united24media.com/war-in-ukraine/russian-ballistic-barrage-hits-kyiv-hospital-damaged-warehouses-ablaze-people-trapped-in-shelter-21849) - United24 Media - 2026-08-20
+[6] [Russia hit Kyiv with ballistic and hypersonic missiles](https://euromaidanpress.com/2026/08/20/russia-hit-kyiv-with-ballistic-and-hypersonic-missiles-overnight-damaging-a-childrens-hospital-with-people-trapped-in-a-shelter/) - Euromaidan Press - 2026-08-20
+
 ## <span class="h2-num">08.19</span> 8月19日 · 周三
 
 
@@ -226,4 +265,4 @@ layout: default
 
 <hr class="divider">
 
-<span class="meta">最近更新：2026-08-19 新增每日播报板块，8/16-8/19 简报已归档</span>
+<span class="meta">最近更新：2026-08-20 8/20 简报已归档，共 5 天</span>
